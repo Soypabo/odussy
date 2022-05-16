@@ -1,2 +1,2 @@
-# odussy
- odyssey
+# odyussy
+ the odyssey story
